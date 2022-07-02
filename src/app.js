@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 import cors from "cors";
 
 //Routers`
-import homeRouter from "./routers/homeRouter";
+import homeRouter from "./routers/homeRouter.js";
 import weatherRouter from "./routers/weatherRouter.js";
 
 dotenv.config({ path: ".env" });
