@@ -2,7 +2,8 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 
-//Routers
+//Routers`
+import homeRouter from "./routers/homeRouter";
 import weatherRouter from "./routers/weatherRouter.js";
 
 dotenv.config({ path: ".env" });
@@ -15,6 +16,7 @@ app.use(cors());
 app.use(express.json());
 
 // Use routers
+app.use("/", homeRouter);
 app.use("/api/v1/weather", weatherRouter);
 
 export default app;
