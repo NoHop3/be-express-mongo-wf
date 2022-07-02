@@ -30,6 +30,7 @@
 | 3   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
 | 4   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
 | 5   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
+| 5   | Dotenv fix for heroku <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3  |   Stefan    | 02.07.2022 |
 
 ### Progress bar
 
