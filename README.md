@@ -23,12 +23,13 @@
 
 ### Change log:
 
-| ID  | Description                                                                                        | Contributor |    Date    |
-| --- | -------------------------------------------------------------------------------------------------- | :---------: | :--------: |
-| 1   | Initial backend commit <br>/ **_1. Added file(s) ✔️ ->_** 10 <br/> **_2. Edited file(s) 📝 ->_** 0 |   Stefan    | 02.07.2022 |
-| 2   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 <br/> **_2. Edited file(s) 📝 ->_** 1           |   Stefan    | 02.07.2022 |
-| 3   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 <br/> **_2. Edited file(s) 📝 ->_** 1           |   Stefan    | 02.07.2022 |
-| 4   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 <br/> **_2. Edited file(s) 📝 ->_** 1           |   Stefan    | 02.07.2022 |
+| ID  | Description                                                                                    | Contributor |    Date    |
+| --- | ---------------------------------------------------------------------------------------------- | :---------: | :--------: |
+| 1   | Initial backend commit <br> **_1. Added file(s) ✔️ ->_** 10 ↔️ **_2. Edited file(s) 📝 ->_** 0 |   Stefan    | 02.07.2022 |
+| 2   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
+| 3   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
+| 4   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
+| 5   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1          |   Stefan    | 02.07.2022 |
 
 ### Progress bar
 
