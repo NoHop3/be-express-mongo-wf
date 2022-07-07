@@ -9,20 +9,20 @@
 
 ### API Endpoints
 
-| ID  | Method |                      Description                      |                                 URL                                  |
-| :-: | :----: | :---------------------------------------------------: | :------------------------------------------------------------------: |
-|  0  |  Base  |           This is where our API is situated           |             https://weather-forecast-sep4.herokuapp.com/             |
-|  1  |  GET   |               To get all weather values               |     https://weather-forecast-sep4.herokuapp.com/api/v1/weather/      |
-|  2  |  GET   |          To get weather for a specific city           |  https://weather-forecast-sep4.herokuapp.com/api/v1/weather/{city}/  |
-|  4  |  POST  |             To create a weather location              |     https://weather-forecast-sep4.herokuapp.com/api/v1/weather/      |
-|  3  |  PUT   |        To update an existing weather location         |  https://weather-forecast-sep4.herokuapp.com/api/v1/weather/{city}/  |
-|  5  | DELETE |        To delete an existing weather location         |  https://weather-forecast-sep4.herokuapp.com/api/v1/weather/{city}/  |
-|  6  |  GET   |                 To get all users data                 |      https://weather-forecast-sep4.herokuapp.com/api/v1/users/       |
-|  7  |  GET   | To get a specifuc user you need to provide a username | https://weather-forecast-sep4.herokuapp.com/api/v1/users/{username}/ |
-|  8  |  GET   |           To login with a username+password           |   https://weather-forecast-sep4.herokuapp.com/api/v1/users/login/    |
-|  9  |  POST  |              To create a user (register)              |      https://weather-forecast-sep4.herokuapp.com/api/v1/users/       |
-| 10  |  PUT   |              To update an existing user               | https://weather-forecast-sep4.herokuapp.com/api/v1/users/{username}/ |
-| 11  | DELETE |              To delete an existing user               | https://weather-forecast-sep4.herokuapp.com/api/v1/users/{username}/ |
+| ID  | Method |                      Description                      |                     URL                      |                       Response                        |
+| :-: | :----: | :---------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------: |
+|  0  |  Base  |           This is where our API is situated           | https://weather-forecast-sep4.herokuapp.com/ |                           /                           |
+|  1  |  GET   |               To get all weather values               |               api/v1/weather/                |              List of all weather objects              |
+|  2  |  GET   |          To get weather for a specific city           |            api/v1/weather/{city}/            |          Weather object for a specific city           |
+|  4  |  POST  |             To create a weather location              |               api/v1/weather/                |   Weather object for a specific city after creation   |
+|  3  |  PUT   |        To update an existing weather location         |            api/v1/weather/{city}/            |    Weather object for a specific city after update    |
+|  5  | DELETE |        To delete an existing weather location         |            api/v1/weather/{city}/            |  Weather object for a specific city before deletion   |
+|  6  |  GET   |                 To get all users data                 |                api/v1/users/                 |               List of all users objects               |
+|  7  |  GET   | To get a specifuc user you need to provide a username |           api/v1/users/{username}/           |          User object for a specific username          |
+|  8  |  GET   |           To login with a username+password           |             api/v1/users/login/              |                User object after login                |
+|  9  |  POST  |              To create a user (register)              |                api/v1/users/                 | User object for a specific username after registering |
+| 10  |  PUT   |              To update an existing user               |           api/v1/users/{username}/           |   User object for a specific username after update    |
+| 11  | DELETE |              To delete an existing user               |           api/v1/users/{username}/           |  User object for a specific username before deletion  |
 
 ### Change log:
 
@@ -38,6 +38,7 @@
 | 8   | Small change in app.js <br/> 1. **_Added file(s) ✔️ ->_** 1 ↔️ **_2. Edited file(s) 📝 ->_** 2                       |   Stefan    | 02.07.2022 |
 | 9   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
 | 10  | Adding User pathing, changes to weather path <br/> 1. **_Added file(s) ✔️ ->_** 4 ↔️ **_2. Edited file(s) 📝 ->_** 7 |   Stefan    | 07.07.2022 |
+| 11  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 07.07.2022 |
 
 ### Progress bar
 
