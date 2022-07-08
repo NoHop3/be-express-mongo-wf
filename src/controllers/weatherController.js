@@ -32,8 +32,7 @@ export const createWeather = async (req, res, next) => {
 // PUT /weather/:city
 export const updateWeatherByCity = async (req, res, next) => {
   try {
-    const weather = new Weather(req.body);
-    res.json(await weatherService.updateWeatherByCity(req.params.city, weather));
+    res.json(await weatherService.updateWeatherByCity(req.params.city, req.body));
   } catch (error) {
     next(error);
   }

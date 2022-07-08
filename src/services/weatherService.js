@@ -17,7 +17,13 @@ const createWeather = async (weather) => {
 
 // PUT /weather/:city
 const updateWeatherByCity = async (city, weather) => {
-    return Weather.findOneAndUpdate({ city: city }, { $set: weather }, { returnNewDocument: true, upsert: true });
+    const weatherToReturn = await Weather.findOne({ city: city });
+    if(weatherToReturn)
+    {
+        weatherToReturn.set(weather);
+        return await weatherToReturn.save();
+    }
+    return null;
 }
 
 // DELETE /weather/:city
