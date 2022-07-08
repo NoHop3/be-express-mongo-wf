@@ -9,6 +9,8 @@ const weatherSchema = new mongoose.Schema({
   humidity: Number,
   pressure: Number,
   wind: Number,
+  sunsetTime: String,
+  sunriseTime: String,
   description: String,
   picture: String,
   updatedAt: String,

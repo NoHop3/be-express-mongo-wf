@@ -39,6 +39,7 @@
 | 9   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
 | 10  | Adding User pathing, changes to weather path <br/> 1. **_Added file(s) ✔️ ->_** 4 ↔️ **_2. Edited file(s) 📝 ->_** 7 |   Stefan    | 07.07.2022 |
 | 11  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 07.07.2022 |
+| 12  | Small changes to Weather Model <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                             |   Stefan    | 08.07.2022 |
 
 ### Progress bar
 
