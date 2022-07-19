@@ -12,17 +12,17 @@
 | ID  | Method |                      Description                      |                     URL                      |                       Response                        |
 | :-: | :----: | :---------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------: |
 |  0  |  Base  |           This is where our API is situated           | https://weather-forecast-sep4.herokuapp.com/ |                           /                           |
-|  1  |  GET   |               To get all weather values               |               api/v1/weather/                |              List of all weather objects              |
-|  2  |  GET   |          To get weather for a specific city           |            api/v1/weather/{city}/            |          Weather object for a specific city           |
-|  4  |  POST  |             To create a weather location              |               api/v1/weather/                |   Weather object for a specific city after creation   |
-|  3  |  PUT   |        To update an existing weather location         |            api/v1/weather/{city}/            |    Weather object for a specific city after update    |
-|  5  | DELETE |        To delete an existing weather location         |            api/v1/weather/{city}/            |  Weather object for a specific city before deletion   |
-|  6  |  GET   |                 To get all users data                 |                api/v1/users/                 |               List of all users objects               |
-|  7  |  GET   | To get a specifuc user you need to provide a username |           api/v1/users/{username}/           |          User object for a specific username          |
-|  8  |  POST   |           To login with a username+password           |             api/v1/users/login/              |                User object after login                |
-|  9  |  POST  |              To create a user (register)              |                api/v1/users/                 | User object for a specific username after registering |
-| 10  |  PUT   |              To update an existing user               |           api/v1/users/{username}/           |   User object for a specific username after update    |
-| 11  | DELETE |              To delete an existing user               |           api/v1/users/{username}/           |  User object for a specific username before deletion  |
+|  1  |  GET   |               To get all weather values               |                api/v1/weather                |              List of all weather objects              |
+|  2  |  GET   |          To get weather for a specific city           |            api/v1/weather/{city}             |          Weather object for a specific city           |
+|  4  |  POST  |             To create a weather location              |                api/v1/weather                |   Weather object for a specific city after creation   |
+|  3  |  PUT   |        To update an existing weather location         |            api/v1/weather/{city}             |    Weather object for a specific city after update    |
+|  5  | DELETE |        To delete an existing weather location         |            api/v1/weather/{city}             |  Weather object for a specific city before deletion   |
+|  6  |  GET   |                 To get all users data                 |                 api/v1/users                 |               List of all users objects               |
+|  7  |  GET   | To get a specifuc user you need to provide a username |           api/v1/users/{username}            |          User object for a specific username          |
+|  8  |  POST  |           To login with a username+password           |              api/v1/users/login              |                User object after login                |
+|  9  |  POST  |              To create a user (register)              |            api/v1/users/register             | User object for a specific username after registering |
+| 10  |  PUT   |              To update an existing user               |           api/v1/users/{username}            |   User object for a specific username after update    |
+| 11  | DELETE |              To delete an existing user               |           api/v1/users/{username}            |  User object for a specific username before deletion  |
 
 ### Change log:
 
@@ -39,11 +39,12 @@
 | 9   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
 | 10  | Adding User pathing, changes to weather path <br/> 1. **_Added file(s) ✔️ ->_** 4 ↔️ **_2. Edited file(s) 📝 ->_** 7 |   Stefan    | 07.07.2022 |
 | 11  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 07.07.2022 |
-| 12  | Small changes to Weather Model <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                             |   Stefan    | 08.07.2022 |
-| 13  | Small fixes in the PUT chain for Weather <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3                             |   Stefan    | 08.07.2022 |
-| 14  | LOGIN is now POST instead of GET <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                             |   Stefan    | 19.07.2022 |
+| 12  | Small changes to Weather Model <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2               |   Stefan    | 08.07.2022 |
+| 13  | Small fixes in the PUT chain for Weather <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3     |   Stefan    | 08.07.2022 |
+| 14  | LOGIN is now POST instead of GET <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2             |   Stefan    | 19.07.2022 |
 | 15  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 19.07.2022 |
 | 16  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 19.07.2022 |
+| 17  | Adding default values for weather objects picture <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                             |   Stefan    | 19.07.2022 |
 
 ### Progress bar
 

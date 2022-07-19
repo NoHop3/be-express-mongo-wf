@@ -11,6 +11,11 @@ const getWeatherByCity = async (city) => {
 
 // POST /weather
 const createWeather = async (weather) => {
+    if(weather.picture == "")
+    {
+        weather.picture =
+          "https://img.freepik.com/premium-vector/autumn-mountains-landscape-with-tree-silhouettes-river-sunset_148087-293.jpg?w=2000";
+    }
     const newWeather = new Weather(weather);
     return newWeather.save();
 }
