@@ -26,25 +26,26 @@
 
 ### Change log:
 
-| ID  | Description                                                                                                          | Contributor |    Date    |
-| --- | -------------------------------------------------------------------------------------------------------------------- | :---------: | :--------: |
-| 1   | Initial backend commit <br> **_1. Added file(s) ✔️ ->_** 10 ↔️ **_2. Edited file(s) 📝 ->_** 0                       |   Stefan    | 02.07.2022 |
-| 2   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
-| 3   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
-| 4   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
-| 5   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
-| 6   | Dotenv fix for heroku <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3                        |   Stefan    | 02.07.2022 |
-| 7   | Home page fix for CANNOT GET / <br/> 1. **_Added file(s) ✔️ ->_** 1 ↔️ **_2. Edited file(s) 📝 ->_** 3               |   Stefan    | 02.07.2022 |
-| 8   | Small change in app.js <br/> 1. **_Added file(s) ✔️ ->_** 1 ↔️ **_2. Edited file(s) 📝 ->_** 2                       |   Stefan    | 02.07.2022 |
-| 9   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                |   Stefan    | 02.07.2022 |
-| 10  | Adding User pathing, changes to weather path <br/> 1. **_Added file(s) ✔️ ->_** 4 ↔️ **_2. Edited file(s) 📝 ->_** 7 |   Stefan    | 07.07.2022 |
-| 11  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 07.07.2022 |
-| 12  | Small changes to Weather Model <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2               |   Stefan    | 08.07.2022 |
-| 13  | Small fixes in the PUT chain for Weather <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3     |   Stefan    | 08.07.2022 |
-| 14  | LOGIN is now POST instead of GET <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2             |   Stefan    | 19.07.2022 |
-| 15  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 19.07.2022 |
-| 16  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 19.07.2022 |
-| 17  | Adding default values for weather objects picture <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                             |   Stefan    | 19.07.2022 |
+| ID  | Description                                                                                                               | Contributor |    Date    |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | :---------: | :--------: |
+| 1   | Initial backend commit <br> **_1. Added file(s) ✔️ ->_** 10 ↔️ **_2. Edited file(s) 📝 ->_** 0                            |   Stefan    | 02.07.2022 |
+| 2   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                     |   Stefan    | 02.07.2022 |
+| 3   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                     |   Stefan    | 02.07.2022 |
+| 4   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                     |   Stefan    | 02.07.2022 |
+| 5   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                     |   Stefan    | 02.07.2022 |
+| 6   | Dotenv fix for heroku <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3                             |   Stefan    | 02.07.2022 |
+| 7   | Home page fix for CANNOT GET / <br/> 1. **_Added file(s) ✔️ ->_** 1 ↔️ **_2. Edited file(s) 📝 ->_** 3                    |   Stefan    | 02.07.2022 |
+| 8   | Small change in app.js <br/> 1. **_Added file(s) ✔️ ->_** 1 ↔️ **_2. Edited file(s) 📝 ->_** 2                            |   Stefan    | 02.07.2022 |
+| 9   | Update README <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                     |   Stefan    | 02.07.2022 |
+| 10  | Adding User pathing, changes to weather path <br/> 1. **_Added file(s) ✔️ ->_** 4 ↔️ **_2. Edited file(s) 📝 ->_** 7      |   Stefan    | 07.07.2022 |
+| 11  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                  |   Stefan    | 07.07.2022 |
+| 12  | Small changes to Weather Model <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                    |   Stefan    | 08.07.2022 |
+| 13  | Small fixes in the PUT chain for Weather <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3          |   Stefan    | 08.07.2022 |
+| 14  | LOGIN is now POST instead of GET <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                  |   Stefan    | 19.07.2022 |
+| 15  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                  |   Stefan    | 19.07.2022 |
+| 16  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                  |   Stefan    | 19.07.2022 |
+| 17  | Adding default values for weather objects picture <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2 |   Stefan    | 19.07.2022 |
+| 18  | Adding default values for weather objects picture <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2 |   Stefan    | 19.07.2022 |
 
 ### Progress bar
 
