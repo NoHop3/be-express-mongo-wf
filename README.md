@@ -19,7 +19,7 @@
 |  5  | DELETE |        To delete an existing weather location         |            api/v1/weather/{city}/            |  Weather object for a specific city before deletion   |
 |  6  |  GET   |                 To get all users data                 |                api/v1/users/                 |               List of all users objects               |
 |  7  |  GET   | To get a specifuc user you need to provide a username |           api/v1/users/{username}/           |          User object for a specific username          |
-|  8  |  GET   |           To login with a username+password           |             api/v1/users/login/              |                User object after login                |
+|  8  |  POST   |           To login with a username+password           |             api/v1/users/login/              |                User object after login                |
 |  9  |  POST  |              To create a user (register)              |                api/v1/users/                 | User object for a specific username after registering |
 | 10  |  PUT   |              To update an existing user               |           api/v1/users/{username}/           |   User object for a specific username after update    |
 | 11  | DELETE |              To delete an existing user               |           api/v1/users/{username}/           |  User object for a specific username before deletion  |
@@ -43,6 +43,7 @@
 | 13  | Small fixes in the PUT chain for Weather <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 3                             |   Stefan    | 08.07.2022 |
 | 14  | LOGIN is now POST instead of GET <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2                             |   Stefan    | 19.07.2022 |
 | 15  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 19.07.2022 |
+| 16  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                             |   Stefan    | 19.07.2022 |
 
 ### Progress bar
 
