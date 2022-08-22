@@ -46,6 +46,8 @@
 | 16  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1                                  |   Stefan    | 19.07.2022 |
 | 17  | Adding default values for weather objects picture <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2 |   Stefan    | 19.07.2022 |
 | 18  | Adding default values for weather objects picture <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 2 |   Stefan    | 19.07.2022 |
+| 19  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1  |   Stefan    | 22.08.2022 |
+| 20  | Update README.md <br/> 1. **_Added file(s) ✔️ ->_** 0 ↔️ **_2. Edited file(s) 📝 ->_** 1  |   Stefan    | 22.08.2022 |
 
 ### Progress bar
 
