@@ -51,9 +51,9 @@
 
 - [x] Initial commit of the app (02.07.2022)
 - [x] Initial commit of README.md (02.07.2022)
-- [ ] Work period for the SEP4 app ( 02.07.2022 - 12.08.2022 )
-- [ ] Handin for the android app semester project (12.08.2022)
-- [ ] Examination (Late August)
+- [x] Work period for the SEP4 app ( 02.07.2022 - 12.08.2022 )
+- [x] Handin for the android app semester project (12.08.2022)
+- [x] Examination (19.08 - Final grade 4) 
 
 ### [Base API URL](https://weather-forecast-sep4.herokuapp.com/)
 
